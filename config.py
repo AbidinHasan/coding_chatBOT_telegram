@@ -1,1 +1,1 @@
-TOKENS = '8002193157:AAFLEu3LwGhiuSXc2HmWncF-DjIhNmkRibQ'
+TOKENS = '#input TOKEN BOT elu'
